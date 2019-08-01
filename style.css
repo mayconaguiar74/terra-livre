@@ -34,14 +34,11 @@
 		p{
 			text-align: justify;		
 		}
-		.cor{
-			background-color: #A4A4A4;	
-				
-		}
 		
 		.foto{
 	padding: 10px;
 	margin: 10px;
+	margin-left: 10px;
 	background-color: gray;
 	float: left;
 	text-align: center;
